@@ -1,3 +1,22 @@
-div.title {
-    background-color:black;
+.title {
+    margin: 5px 5px 5px 5px;
+    color: #666666;
+    font-size:2em;
+};
+
+.palatino {
+    font-family: "Palatino Linotype","Book Antiqua", Palatino, serif;
+}
+.gill_sans {
+    font-family: "Gill Sans / Gill Sans MT", sans-serif;
+}
+.century_gothic {
+    font-family: "Century Gothic", sans-serif;
+}
+.trebuchet {
+    font-family:'Trebuchet MS', Helvetica, sans-serif;
+}
+
+.lucida {
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
 }
